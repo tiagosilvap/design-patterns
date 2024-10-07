@@ -1,10 +1,10 @@
-package meu_exemplo;
+package chainofresponsability.meu_exemplo;
 
-import meu_exemplo.middleware.Middleware;
-import meu_exemplo.middleware.RoleCheckMiddleware;
-import meu_exemplo.middleware.ThrottlingMiddleware;
-import meu_exemplo.middleware.UserExistsMiddleware;
-import meu_exemplo.server.OrderService;
+import chainofresponsability.meu_exemplo.middleware.Middleware;
+import chainofresponsability.meu_exemplo.middleware.RoleCheckMiddleware;
+import chainofresponsability.meu_exemplo.middleware.ThrottlingMiddleware;
+import chainofresponsability.meu_exemplo.middleware.UserExistsMiddleware;
+import chainofresponsability.meu_exemplo.server.OrderService;
 
 import java.io.IOException;
 import java.math.BigDecimal;

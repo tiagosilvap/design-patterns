@@ -1,4 +1,4 @@
-package meu_exemplo.middleware;
+package chainofresponsability.meu_exemplo.middleware;
 
 import java.math.BigDecimal;
 

@@ -1,10 +1,10 @@
-package livro;
+package chainofresponsability.livro;
 
-import livro.middleware.Middleware;
-import livro.middleware.RoleCheckMiddleware;
-import livro.middleware.ThrottlingMiddleware;
-import livro.middleware.UserExistsMiddleware;
-import livro.server.Server;
+import chainofresponsability.livro.middleware.Middleware;
+import chainofresponsability.livro.middleware.RoleCheckMiddleware;
+import chainofresponsability.livro.middleware.ThrottlingMiddleware;
+import chainofresponsability.livro.middleware.UserExistsMiddleware;
+import chainofresponsability.livro.server.Server;
 
 import java.io.BufferedReader;
 import java.io.IOException;

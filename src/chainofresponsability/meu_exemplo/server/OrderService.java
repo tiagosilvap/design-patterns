@@ -1,6 +1,6 @@
-package meu_exemplo.server;
+package chainofresponsability.meu_exemplo.server;
 
-import meu_exemplo.middleware.Middleware;
+import chainofresponsability.meu_exemplo.middleware.Middleware;
 
 import java.math.BigDecimal;
 

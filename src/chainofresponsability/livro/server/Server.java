@@ -1,6 +1,6 @@
-package livro.server;
+package chainofresponsability.livro.server;
 
-import livro.middleware.Middleware;
+import chainofresponsability.livro.middleware.Middleware;
 
 import java.util.HashMap;
 import java.util.Map;

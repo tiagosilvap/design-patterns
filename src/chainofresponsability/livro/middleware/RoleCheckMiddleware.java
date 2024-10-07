@@ -1,4 +1,4 @@
-package livro.middleware;
+package chainofresponsability.livro.middleware;
 
 /**
  * ConcreteHandler. Checks a user's role.

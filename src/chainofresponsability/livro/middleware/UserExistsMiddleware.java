@@ -1,6 +1,6 @@
-package livro.middleware;
+package chainofresponsability.livro.middleware;
 
-import livro.server.Server;
+import chainofresponsability.livro.server.Server;
 
 /**
  * ConcreteHandler. Checks whether a user with the given credentials exists.

@@ -1,4 +1,4 @@
-package livro.middleware;
+package chainofresponsability.livro.middleware;
 
 /**
  * Base middleware class.
